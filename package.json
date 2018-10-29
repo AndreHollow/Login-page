@@ -1,0 +1,28 @@
+{
+  "name": "testtask",
+  "version": "1.0.0",
+  "description": "test task for io technologies",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp-sass": "^4.0.2"
+  },
+  "devDependencies": {
+    "autoprefixer": "^9.3.1",
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-cache": "^1.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-cssnano": "^2.1.3",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-uglifyjs": "^0.6.2",
+    "imagemin-pngquant": "^6.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "andrehollow",
+  "license": "ISC"
+}
